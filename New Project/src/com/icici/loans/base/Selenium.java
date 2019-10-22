@@ -8,8 +8,6 @@ public class Selenium {
 
 		a=b+c;
 
-		
-
 	}
 
 	public static void main(String[] args) {
