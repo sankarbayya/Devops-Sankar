@@ -3,8 +3,8 @@ package com.icici.loans.base;
 public class Selenium {
 	
 	public void add(){
-		int a,b,c;
-		a=b+c;
+		int a,b,d;
+		d=a+b;
 		
 	}
 
