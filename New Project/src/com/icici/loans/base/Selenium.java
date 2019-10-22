@@ -3,9 +3,10 @@ package com.icici.loans.base;
 public class Selenium {
 	
 	public void add(){
+
 		int a,b,d;
 		d=a+b;
-		
+
 	}
 
 	public static void main(String[] args) {
