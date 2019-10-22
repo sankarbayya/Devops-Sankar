@@ -5,8 +5,7 @@ public class Selenium {
 	public void add(){
 
 		int a,b,d;
-
-		a=b+c;
+		d=a+b;
 
 	}
 
@@ -14,6 +13,7 @@ public class Selenium {
 		// TODO Auto-generated method stub
 System.out.println("commit check");
 System.out.println("another commit vcfcheck");
+System.out.println("Validation for Branch import");
 		
 	}
 
